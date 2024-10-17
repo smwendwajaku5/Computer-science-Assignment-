@@ -1,4 +1,9 @@
-
+//program to calculate book registration
+/*
+//program to calculate book registration
+Author :Stephen mwendwa 
+Date:
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
